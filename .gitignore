@@ -1,0 +1,16 @@
+*.apk
+*.csproj
+*.sln
+.vs
+.vsconfig
+*Library*
+*Logs*
+Temp
+obj
+*.mp4
+PersistentData
+libskybox.log
+plugin-log.txt
+*.bat
+*.log
+*.idea
