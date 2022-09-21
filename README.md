@@ -4,7 +4,7 @@
 ## 1.一个简单的物品编辑工具demo
 ![image](https://user-images.githubusercontent.com/25300766/190916505-ab5658dd-b70b-49c5-a663-0507f0aa94b1.png)
 
-> 关键代码：ItemEditor.cs，ItemEditor.uxml是手工搭出来的。
+> 主要代码：ItemEditor.cs，ItemEditor.uxml是手工搭出来的。
 >
 > 参考资料：麦田物语教程No.13: <https://learn.u3d.cn/tutorial/MFarmCourse/?tab=materials#62179c4dec04af00209be146>
 >
@@ -12,3 +12,6 @@
 
 ## 2.使选中的物体颜色改变
 ![image](https://user-images.githubusercontent.com/25300766/191518894-ab8b2974-ec6f-4246-ba6e-cc6e29e3fbf4.png)
+> 主要代码：ExampleWindow.cs
+>
+> 参考资料：https://www.youtube.com/watch?v=491TSNwXTIg&t=204s
