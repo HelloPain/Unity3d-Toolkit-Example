@@ -6,13 +6,13 @@ using System;
 using UnityEditor.UIElements;
 using System.Linq;
 
-public class ItemEditor2 : EditorWindow
+public class ItemEditor : EditorWindow
 {
-    [MenuItem("MyTools/ItemEditor2")]
+    [MenuItem("MyTools/ItemEditor")]
     public static void ShowExample()
     {
-        ItemEditor2 wnd = GetWindow<ItemEditor2>();
-        wnd.titleContent = new GUIContent("ItemEditor2");
+        ItemEditor wnd = GetWindow<ItemEditor>();
+        wnd.titleContent = new GUIContent("ItemEditor");
     }
 
     private VisualTreeAsset rowTemplate;
