@@ -7,13 +7,7 @@ using Random = UnityEngine.Random;
 public class AsyncTest : MonoBehaviour
 {
     public GameObject[] objs;
-
-    // private void Start()
-    // {
-    //     RotateFunc();
-    //     PrintRandomNumber();
-    // }
-
+    
     async void RotateFunc()
     {
         await RotateOneByOne();
@@ -122,9 +116,9 @@ public class AsyncTestWindow : Editor
         {
             m_Target.RotateOneByOne();
         }
-        if (GUILayout.Button("Print random number"))
-        {
-            m_Target.PrintRandomNumber();
-        }
+        // if (GUILayout.Button("Print random number"))
+        // {
+        //     m_Target.PrintRandomNumber();
+        // }
     }
 }
