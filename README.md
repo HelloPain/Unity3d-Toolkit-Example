@@ -15,3 +15,9 @@
 > 主要代码：ExampleWindow.cs
 >
 > 参考资料：https://www.youtube.com/watch?v=491TSNwXTIg&t=204s
+
+## 3.async 入门
+![动画](https://user-images.githubusercontent.com/25300766/191896848-e96613aa-1fe9-40c2-96c9-37fdecb02e08.gif)
+> 主要代码：AsyncTest.cs
+>
+> 参考资料：https://www.youtube.com/watch?v=WY-mk-ZGAq8
